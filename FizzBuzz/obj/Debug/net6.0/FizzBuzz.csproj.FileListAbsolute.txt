@@ -1,0 +1,12 @@
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+D:\Git\FizzBuzzTDD\Fizzbuzztdd\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll
