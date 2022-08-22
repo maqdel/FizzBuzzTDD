@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzzTests\\FizzBuzzTests.csproj": {}
+    "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\fizzbuzztests\\FizzBuzzTests.csproj": {}
   },
   "projects": {
-    "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzzTests\\FizzBuzzTests.csproj": {
+    "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\fizzbuzztests\\FizzBuzzTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzzTests\\FizzBuzzTests.csproj",
+        "projectUniqueName": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\fizzbuzztests\\FizzBuzzTests.csproj",
         "projectName": "FizzBuzzTests",
-        "projectPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzzTests\\FizzBuzzTests.csproj",
+        "projectPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\fizzbuzztests\\FizzBuzzTests.csproj",
         "packagesPath": "C:\\Users\\maqde\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzzTests\\obj\\",
+        "outputPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\fizzbuzztests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maqde\\AppData\\Roaming\\NuGet\\NuGet.Config",
