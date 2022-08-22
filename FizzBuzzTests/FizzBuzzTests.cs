@@ -15,11 +15,33 @@ namespace FizzBuzzTDD.FizzBuzzTests
     public class FizzBuzzTests
     {
         [TestMethod]
-        public void get_100_numbers()
+        public void evaluate_fizzbuzz()
         {
             FizzBuzzLib.FizzBuzz fb = new FizzBuzzLib.FizzBuzz();
             fb.Run();            
-            Assert.AreEqual(fb.Response.Count, 100);            
+            Assert.AreEqual(fb.Serie.Count, 100);
+            Assert.AreEqual(fb.Serie[0], "1");
+            Assert.AreEqual(fb.Serie[2], "Fizz");
+            Assert.AreEqual(fb.Serie[4], "Buzz");
+            Assert.AreEqual(fb.Serie[14], "FizzBuzz");
+            Assert.AreEqual(fb.Serie[98], "Fizz");
+            Assert.AreEqual(fb.Serie[99], "Buzz");
+        }
+
+        [TestMethod]
+        public void evaluate_any()
+        {
+            FizzBuzzLib.FizzBuzz fb = new FizzBuzzLib.FizzBuzz();
+            fb.Run(1);                     
+            Assert.AreEqual(fb.SingleValue, "1");
+        } 
+
+        [TestMethod]
+        public void evaluate_1095()
+        {
+            FizzBuzzLib.FizzBuzz fb = new FizzBuzzLib.FizzBuzz();
+            fb.Run(1095);         
+            Assert.AreEqual(fb.SingleValue, "FizzBuzz");
         }
     }
 }

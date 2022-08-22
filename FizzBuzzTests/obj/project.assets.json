@@ -6229,11 +6229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzzTests\\FizzBuzzTests.csproj",
+      "projectUniqueName": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzzTests\\FizzBuzzTests.csproj",
       "projectName": "FizzBuzzTests",
-      "projectPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzzTests\\FizzBuzzTests.csproj",
+      "projectPath": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzzTests\\FizzBuzzTests.csproj",
       "packagesPath": "C:\\Users\\maqde\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzzTests\\obj\\",
+      "outputPath": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzzTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maqde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6250,8 +6250,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj": {
-              "projectPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj"
+            "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj": {
+              "projectPath": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\Console\\Console.csproj": {}
+    "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\Console\\Console.csproj": {}
   },
   "projects": {
-    "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\Console\\Console.csproj": {
+    "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\Console\\Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\Console\\Console.csproj",
+        "projectUniqueName": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\Console\\Console.csproj",
         "projectName": "Console",
-        "projectPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\Console\\Console.csproj",
+        "projectPath": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\Console\\Console.csproj",
         "packagesPath": "C:\\Users\\maqde\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\Console\\obj\\",
+        "outputPath": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maqde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj": {
-                "projectPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj"
+              "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj": {
+                "projectPath": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj": {
+    "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\maqde\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\FizzBuzz\\obj\\",
+        "outputPath": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maqde\\AppData\\Roaming\\NuGet\\NuGet.Config",

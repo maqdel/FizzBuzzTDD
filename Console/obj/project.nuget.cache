@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZiVENS3R6j9qwp13O0hkxWqE5jd/xuTN1KAzcmgBgcRgA7pemS0GGAAs5qh6LS6yPJXKkWVuoyjiSO6afWndg==",
+  "dgSpecHash": "PZX8k+w0klR0ZXjYLUoe6kwstqHvPIffmlgj4EFDNfnWrrh5R9sEi58QVfby7u1+xtSPRoQctYT1YUYSlX9KUQ==",
   "success": true,
-  "projectFilePath": "D:\\Git\\FizzBuzzTDD\\Fizzbuzztdd\\Console\\Console.csproj",
+  "projectFilePath": "D:\\Git\\FizzBuzzTDD\\fizzbuzztdd\\Console\\Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
